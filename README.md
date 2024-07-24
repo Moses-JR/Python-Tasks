@@ -1,9 +1,11 @@
 Welcome to My GitHub Profile!
 Hello! I'm Moses Saveriyar, a dedicated student passionate about Artificial Intelligens. Currently, I am studying Artificial Intelligence and Data Science at Kongunadu College of engineering and Technology.
+
 Skills:
 - Programming Languages: C,Python,Java
 - Content Creater
 - Logo Designer
+
 My Interests:
 - Coding and Development
 - Machine Learning and AI

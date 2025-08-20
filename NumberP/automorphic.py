@@ -1,0 +1,13 @@
+a=int(input())
+b=a*a
+c=0
+while(a!=0):
+    if(a%10!=b%10):
+        c+=1
+        break
+    a=int(a/10)
+    b=int(b/10)
+if(c==0):
+    print("yes")
+else:
+    print("No")
